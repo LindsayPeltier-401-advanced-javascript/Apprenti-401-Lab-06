@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Animals",
+      "display_name": "Racoon",
+      "description": "Trash Panda"
+    },
+    {
+      "id": 2,
+      "name": "Animals",
+      "display_name": "Aligator",
+      "description": "Death Log"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "Candy",
+      "name": "KitKat",
+      "display_name": "KitKat Candy Bar",
+      "description": "Wafers and Chocolate"
+    },
+    {
+      "id": 2,
+      "name": "Raisinets",
+      "display_name": "chocolate covered raisins",
+      "description": "chocolate covered sadness"
+    }
+  ]
+}
